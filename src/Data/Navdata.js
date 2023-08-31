@@ -1,0 +1,22 @@
+export const Navdata=[
+    {
+        xs:2,
+        title:"Home",
+        path:"/"
+    },
+    {
+        xs:2,
+        title:"Api-1",
+        path:"/api1"
+    },
+    {
+        xs:2,
+        title:"Api-2",
+        path:"/api2"
+    },
+    {
+        xs:2,
+        title:"Api-3",
+        path:"/api3"
+    }
+]
